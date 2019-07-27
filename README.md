@@ -1,4 +1,4 @@
-# firmware
+# Firmware 🔧
 low-level code implementing CircuitPython (port of Micropython) 
 
 ❗ Flashing the bootloader via JTAG is only necessary the first time the board is powered. See the section below for more details. 
