@@ -1,6 +1,6 @@
 
 #define MICROPY_HW_BOARD_NAME "PyCubedv02"
-#define MICROPY_HW_MCU_NAME "samd51j20"
+#define MICROPY_HW_MCU_NAME "samd51j19"
 #define CIRCUITPY_MCU_FAMILY samd51
 
 #define MICROPY_HW_LED_STATUS   (&pin_PA21)
