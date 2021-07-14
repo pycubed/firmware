@@ -2,7 +2,7 @@
 #define BOARD_CONFIG_H
 
 #define VENDOR_NAME "maholli"
-#define PRODUCT_NAME "PyCubedv04"
+#define PRODUCT_NAME "PyCubed"
 #define VOLUME_LABEL "PYCUBEDBOOT"
 #define INDEX_URL "http://pycubed.org"
 #define BOARD_ID "PYCUBED_J20"
