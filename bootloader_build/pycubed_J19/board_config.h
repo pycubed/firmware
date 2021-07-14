@@ -2,10 +2,10 @@
 #define BOARD_CONFIG_H
 
 #define VENDOR_NAME "maholli"
-#define PRODUCT_NAME "PyCubedv04"
+#define PRODUCT_NAME "PyCubed"
 #define VOLUME_LABEL "PYCUBEDBOOT"
-#define INDEX_URL "https://pycubed.org"
-#define BOARD_ID "PYCUBED"
+#define INDEX_URL "http://pycubed.org"
+#define BOARD_ID "PYCUBED_J19"
 
 #define USB_VID 0x04D8
 #define USB_PID 0xEC44 // PID sublicensed from Microchip
