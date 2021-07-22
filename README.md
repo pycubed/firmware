@@ -10,14 +10,11 @@ Latest build (📅 2021-07-14)
 Since folks are starting to use SAMD51...`J20` and `J19` there are now separate bootloaders for each chipset. Make sure to use the correct one!
 
 If you can access bootloader mode (double-click reset button), you can copy over the respective `update-bootloader` UF2 to update the bootloader without having to use JTAG.
-
-## [⭐ See the PyCubed Resources page for tutorials, design resources, and more!](https://pycubed.org/resources)
 <br>
 <br>
-
-# Help Wanted ❗
-See the issues tab for a list of tasks in need of YOUR ☝ help!
-
+## [All PyCubed Resources](https://www.notion.so/maholli/All-PyCubed-Resources-8738cab0dd0743239a3cde30c6066452)
+Tutorials, design resources, and more!
+<br>
 <br>
 <br>
 <br>
